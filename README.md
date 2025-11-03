@@ -1,3 +1,2 @@
-# Sequence Diagram
-sequence diagram for the use case "Enroll in a Course"that illustrates the message flow between actors and system components
-all lifelines, messages, and activation bars are labeled
+# Use Case
+Use Case Diagram illustrates the main actors (Student, Instructor, Admin) and their key interactions with the SkillForge system, including course management, enrollment, and analytics. It highlights include and extend relationships to show dependencies between actions.
